@@ -30,6 +30,10 @@
     color: aliceblue;
 }
 
+.menu {
+    background-color: rgb(255, 237, 216);
+}
+
 .back a {
     color: aliceblue;
     background-color: rgb(78, 78, 78);
