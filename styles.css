@@ -2,8 +2,22 @@
     font-family: Montserrat
 }
 
+.milkrice {
+    color: rgb(207, 207, 0);
+}
+
 .milkshake {
     color: rgb(0, 165, 165);
+}
+
+.poc {
+    color: rgb(255, 196, 125);
+}
+
+.milkrice h1{
+    background-color: rgb(221, 221, 44);
+    color: aliceblue;
+    
 }
 
 .milkshake h1 {
@@ -11,29 +25,9 @@
     color: aliceblue;
 }
 
-.poc {
-    color: rgb(255, 196, 125);
-}
-
 .poc h1 {
     background-color: rgb(255, 196, 125);
     color: aliceblue;
-}
-
-.milkrice {
-    color: rgb(207, 207, 0);
-}
-
-.milkriceback h1{
-    background-color: rgb(221, 221, 44);
-    color: aliceblue;
-    
-}
-
-
-
-.milkricemenu {
-    background-color: rgb(255, 237, 216);
 }
 
 .back a {
