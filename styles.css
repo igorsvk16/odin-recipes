@@ -1,0 +1,42 @@
+* {
+    font-family: Montserrat
+}
+
+.milkshake {
+    color: rgb(0, 165, 165);
+}
+
+.milkshake h1 {
+    background-color: rgb(0, 165, 165);
+    color: aliceblue;
+}
+
+.poc {
+    color: rgb(255, 196, 125);
+}
+
+.poc h1 {
+    background-color: rgb(255, 196, 125);
+    color: aliceblue;
+}
+
+.milkrice {
+    color: rgb(207, 207, 0);
+}
+
+.milkriceback h1{
+    background-color: rgb(221, 221, 44);
+    color: aliceblue;
+    
+}
+
+
+
+.milkricemenu {
+    background-color: rgb(255, 237, 216);
+}
+
+.back a {
+    color: aliceblue;
+    background-color: rgb(78, 78, 78);
+}
